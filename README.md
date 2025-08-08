@@ -2,9 +2,9 @@
 
 A complete Flutter e-commerce application with modern UI design and full functionality.
 
-## 🚀 Features
+Features
 
-### 📱 Core Features
+Core Features
 - **Product Catalog**: Browse all products with search functionality
 - **Category Management**: View products by categories
 - **Favorites System**: Add/remove products to favorites
@@ -12,7 +12,7 @@ A complete Flutter e-commerce application with modern UI design and full functio
 - **User Profile**: Account management screen
 - **Search Functionality**: Search across all products and categories
 
-### 🎨 UI/UX Features
+ UI/UX Features
 - **Modern Design**: Clean and professional interface
 - **Responsive Layout**: Optimized for different screen sizes
 - **Smooth Animations**: Engaging user experience
@@ -26,7 +26,7 @@ A complete Flutter e-commerce application with modern UI design and full functio
 - **Navigation**: Smooth screen transitions
 - **Error Handling**: Robust error management
 
-## 📋 Screens
+ Screens
 
 1. **Splash Screen**: Beautiful welcome screen with animations
 2. **Home Screen**: Product listing with search and filtering
@@ -35,7 +35,7 @@ A complete Flutter e-commerce application with modern UI design and full functio
 5. **Favorites Screen**: Saved products management
 6. **Profile Screen**: User account and settings
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework**: Flutter
 - **State Management**: GetX
@@ -44,7 +44,7 @@ A complete Flutter e-commerce application with modern UI design and full functio
 - **UI Components**: Material Design
 - **Fonts**: Google Fonts (Poppins, Playfair Display)
 
-## 📦 Dependencies
+##  Dependencies
 
 ```yaml
 dependencies:
@@ -56,14 +56,8 @@ dependencies:
   google_fonts: ^6.1.0
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
-### Prerequisites
-- Flutter SDK (latest version)
-- Android Studio / VS Code
-- Git
-
-### Installation
 
 1. **Clone the repository**
    ```bash
@@ -95,7 +89,7 @@ lib/
 └── main.dart           # App entry point
 ```
 
-## 🎯 Key Features Implementation
+##  Key Features Implementation
 
 ### State Management
 - Uses GetX for efficient state management
@@ -124,38 +118,12 @@ The app uses DummyJSON API endpoints:
 - Primary Color: `#0C0C0C`
 - Text Colors: Black and White
 - Fonts: Poppins and Playfair Display
+![1](https://github.com/user-attachments/assets/ca838e3a-7f7b-4d25-8203-06260155d464)
 
-## 📸 Screenshots
 
-[Add screenshots here when available]
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Ali**
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- DummyJSON for providing the API
-- Flutter team for the amazing framework
-- GetX for state management solution
-
-## 📞 Support
-
-If you have any questions or need support, please open an issue on GitHub.
-
----
-
-⭐ **Star this repository if you found it helpful!**
+ **Star this repository if you found it helpful!**
