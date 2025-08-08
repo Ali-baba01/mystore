@@ -51,7 +51,7 @@ class ProfileScreen extends StatelessWidget {
                   borderRadius: BorderRadius.circular(8),
                 ),
                 child: Stack(
-                  children: [
+                    children: [
                     // Profile Picture (Circle Avatar)
                     Positioned(
                       top: 20,
